@@ -6,7 +6,7 @@ public class Movie {
     String description;
     String director;
 
-    // inicjalizacja zmiennych
+    // deklaracja zmiennych
     int rating;
     boolean oscars;
 }
